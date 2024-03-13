@@ -27,6 +27,7 @@ macos/Flutter/Flutter.podspec
 # Web
 web/.dart_tool/
 web/packages/
+web/build/
 
 # Build
 **/build/
