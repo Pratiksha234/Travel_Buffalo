@@ -1,25 +1,90 @@
 # Android
-/build/
-/gradle/
-/.gradle/
-/captures/
+android/
+build/
+captures/
+.gradle/
+local.properties
 
 # iOS
-Pods/
-Podfile.lock
-Flutter/Flutter.framework
-Flutter/Flutter.podspec
-Flutter/Generated.xcconfig
-Flutter/App.framework
-Flutter/App.framework.debugSymbols
-Flutter/App.framework.profile
-Flutter/FlutterMacOS.framework
-Flutter/FlutterMacOS.framework.debugSymbols
-Flutter/FlutterMacOS.framework.profile
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.app/
+
+# macOS
+macos/Flutter/ephemeral
+macos/Flutter/flutter_assets/
+macos/Flutter/flutter_export_environment.sh
+macos/Flutter/Flutter.podspec
+
+# Web
+web/.dart_tool/
+web/packages/
+
+# Build
+**/build/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+
+# IntelliJ
+.idea/
 *.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Flutter Plugin
+**/android/.gradle
+**/android/.idea
+**/android/build
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/outputs
+**/android/.flutter-plugins
+**/android/.flutter-plugins-dependencies
+**/android/.flutter-plugins-checksums
+**/android/.android
+**/android/.pub-cache
+**/android/.dart_tool
+**/android/.android
+**/android/Flutter
+**/android/gen
+**/android/key.properties
+**/android/app/gradle.build
+**/android/app/gradle.properties
+**/android/app/src/debug
+**/android/app/src/main/flutter_assets
+**/android/app/src/main/res/drawable/launch_background.xml
+**/android/app/src/main/res/mipmap-hdpi
+**/android/app/src/main/res/mipmap-mdpi
+**/android/app/src/main/res/mipmap-xhdpi
+**/android/app/src/main/res/mipmap-xxhdpi
+**/android/app/src/main/res/mipmap-xxxhdpi
+**/android/app/src/main/res/values/strings.xml
+**/android/app/src/profile
+
+# Miscellaneous
+*.DS_Store
+*.tmp
+*.swp
 *.lock
-.DS_Store
-android.iml
-*.pbxproj
-*.xcworkspace
-*.xcuserstate
+*.log
+*.backup
+*.orig
+*.cache
+*.db
+*.sqlite
+*.sqlite3
+*.hprof
+*.bak
+*.pdf
