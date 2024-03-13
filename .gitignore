@@ -27,12 +27,10 @@ macos/Flutter/Flutter.podspec
 # Web
 web/.dart_tool/
 web/packages/
-web/build/
 
-# Build
+# Exclude all build directories except for web
 **/build/
-**/ios/Flutter/App.framework
-**/ios/Flutter/Flutter.framework
+!**/build/web/
 
 # IntelliJ
 .idea/
