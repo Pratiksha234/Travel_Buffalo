@@ -1,0 +1,1 @@
+ E:\\Learning\ Flutter\\buffalo_travel\\.dart_tool\\flutter_build\\98dc55b204e852e1a9211b354e490553\\native_assets.yaml: 

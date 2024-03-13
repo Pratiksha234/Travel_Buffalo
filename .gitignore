@@ -1,0 +1,25 @@
+# Android
+/build/
+/gradle/
+/.gradle/
+/captures/
+
+# iOS
+Pods/
+Podfile.lock
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+Flutter/Generated.xcconfig
+Flutter/App.framework
+Flutter/App.framework.debugSymbols
+Flutter/App.framework.profile
+Flutter/FlutterMacOS.framework
+Flutter/FlutterMacOS.framework.debugSymbols
+Flutter/FlutterMacOS.framework.profile
+*.iml
+*.lock
+.DS_Store
+android.iml
+*.pbxproj
+*.xcworkspace
+*.xcuserstate
