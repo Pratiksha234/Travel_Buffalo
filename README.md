@@ -27,7 +27,7 @@ Buffalo Travel is a mobile application that serves as a guide to the attractions
 To get started with the Buffalo Travel app, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Pratiksha234/buffalo-travel-app.git
+   git clone https://github.com/Pratiksha234/Travel_Buffalo.git
 
 2. Navigate to the project directory:
    cd buffalo-travel-app
